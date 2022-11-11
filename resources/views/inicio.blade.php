@@ -13,7 +13,8 @@
 			<!-- Header -->
 				<div id="header">
 
-					<!-- Inner -->
+					<!-- Inner --> 
+					
 						<div class="inner">
 							<header>
 								<h1><a href="index.html" id="logo">Rick and Morty</a></h1>
